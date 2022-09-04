@@ -107,9 +107,9 @@ function confirma(){
         numeros.innerHTML = ''
         cargo.innerHTML =''
         descricao.innerHTML = '<div class="aviso-grande pisca alinha fim">FIM</div>'
-        setInterval(function(){
+        setTimeout(function(){
             document.location.reload(true)
-        },1500)
+        },1000)
     }    
 }
 

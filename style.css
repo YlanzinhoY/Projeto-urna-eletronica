@@ -16,6 +16,7 @@ body{
     background-color: #dbd5c9;
     padding: 30px;
     display: flex; 
+    margin-top: 80px;
 }
 
 .tela {
@@ -109,11 +110,11 @@ body{
 
 .numero{
     display: inline-block;
-    width: 30px;
-    height: 40px;
+    width: 45px;
+    height: 45px;
     border: 1px solid #000;
     text-align: center;
-    line-height: 40px;
+    line-height: 50px;
     font-size: 25px;
 }
 
